@@ -1,0 +1,6 @@
+106.15.94.206,22,tcp,ssh,OpenSSH--protocol 2.0
+106.15.94.206,80,tcp,http,Apache httpd--(CentOS) PHP/5.4.16
+127.0.0.1,445,tcp,microsoft-ds,--unknow version
+106.15.94.206,22,tcp,ssh,OpenSSH--protocol 2.0
+106.15.94.206,80,tcp,http,Apache httpd--(CentOS) PHP/5.4.16
+127.0.0.1,445,tcp,microsoft-ds,--unknow version
